@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import ImgBg from '../../images/kemeja.jpg';
+import ImgBg from '../../images/kemeja-2.jpg';
 import { Link as LinkS } from 'react-scroll';
 
 export const HeroContainer = styled.div`
