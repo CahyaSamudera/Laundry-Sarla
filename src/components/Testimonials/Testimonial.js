@@ -1,12 +1,12 @@
 import React, { useEffect } from 'react';
 import Aos from 'aos';
 import 'aos/dist/aos.css';
-import person1 from '../../images/prasta-bianca.png';
-import person2 from '../../images/prasta-aan.png';
-import person3 from '../../images/prasta-heru.png';
-import person4 from '../../images/prasta-ilham.png';
-import person5 from '../../images/prasta-ipah.png';
-import person6 from '../../images/prasta-indri-nearest.png';
+import person1 from '../../images/prasta-laundry-1.png';
+import person2 from '../../images/prasta-laundry-3.png';
+import person3 from '../../images/prasta-laundry-5.png';
+import person4 from '../../images/prasta-laundry-2.png';
+import person5 from '../../images/prasta-laundry-4.png';
+import person6 from '../../images/prasta-laundry-6.png';
 
 import './testimonial.css';
 
@@ -45,7 +45,7 @@ const Testimonial = () => {
                           <img src={person1} alt='person-one' />
                         </div>
                         <div className='img-text'>
-                          <h2>Bianca Plaza</h2>
+                          <h2>Karina Doe</h2>
                           <p>
                             Hasil cucian dari Laundry Sarla sangat bersih dan
                             disetrika dengan rapih dan halus. Sangat puas deh
@@ -60,7 +60,7 @@ const Testimonial = () => {
                           <img src={person2} alt='person-2' />
                         </div>
                         <div className='img-text'>
-                          <h2>Ardiyansyah</h2>
+                          <h2>Sarah Doe</h2>
                           <p>
                             Saya sudah sangat sibuk dengan urusan kerjaan di
                             kantor dan saya tidak punya waktu untuk mencuci baju
@@ -76,7 +76,7 @@ const Testimonial = () => {
                           <img src={person3} alt='person-3' />
                         </div>
                         <div className='img-text'>
-                          <h2>Heru Arul</h2>
+                          <h2>John Doe</h2>
                           <p>
                             Kualitas nomor wahid. Tidak terbantahkan dan tidak
                             pernah mengecewakan.
@@ -94,7 +94,7 @@ const Testimonial = () => {
                           <img src={person4} alt='person-4' />
                         </div>
                         <div className='img-text'>
-                          <h2>Ilham Rosyadi</h2>
+                          <h2>Jane Doe</h2>
                           <p>
                             Saya tidak perlu mengantarkan cucian saya, cukup wa
                             mereka dan mereka akan datang. Sungguh layanan yang
@@ -109,7 +109,7 @@ const Testimonial = () => {
                           <img src={person5} alt='person-5' />
                         </div>
                         <div className='img-text'>
-                          <h2>Eryfah Putri</h2>
+                          <h2>James Doe</h2>
                           <p>
                             Laundry Sarla sangat membantu tugas saya sebagai
                             seorang Ibu Rumah Tangga yang juga berwirausaha.
@@ -123,7 +123,7 @@ const Testimonial = () => {
                           <img src={person6} alt='person-6' />
                         </div>
                         <div className='img-text'>
-                          <h2>Indriyani</h2>
+                          <h2>Jonathan Doe</h2>
                           <p>
                             Saya jarang mencuci baju sendiri karena tugas kuliah
                             terkadang sangat menumpuk. Untungnya ada Laundry
